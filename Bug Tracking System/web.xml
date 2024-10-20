@@ -1,0 +1,19 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="3.1">
+    <servlet>
+        <servlet-name>AssignDeveloper</servlet-name>
+        <servlet-class>AssignDeveloper</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AssignDeveloper</servlet-name>
+        <url-pattern>/assigndeveloper</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ManagerReg</servlet-name>
+        <servlet-class>ManagerReg</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ManagerReg</servlet-name>
+        <url-pattern>/managerreg</url-pattern>
+    </servlet-mapping>
+</web-app>
