@@ -29,7 +29,6 @@ This is a simple Java-based Bug Tracking System that allows project managers to 
 - **HTML/CSS**: For frontend design and layout.
 - **NetBeans**: Integrated Development Environment (IDE) for development.
 
-
 ## Installation
 
 To run this project locally, follow these steps:
