@@ -47,3 +47,4 @@ BugtrackingSystemProject/
 │
 └── WEB-INF/
     └── web.xml                     # Configuration file for servlets
+
