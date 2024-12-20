@@ -13,7 +13,7 @@ This is a simple Java-based Bug Tracking System that allows project managers to 
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Features
+# # Features
 
 - Register managers for the bug tracking system.
 - Assign developers to specific bugs.
