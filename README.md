@@ -35,16 +35,16 @@ To run this project locally, follow these steps:
 BugtrackingSystemProject/
 │
 ├── src/
-│   ├── AssignDeveloper.java        # Servlet to assign developers
-│   └── ManagerReg.java             # Servlet for manager registration
+│   ├── AssignDeveloper.java        Servlet to assign developers
+│   └── ManagerReg.java             Servlet for manager registration
 │
 ├── web/
-│   ├── success.jsp                 # Page for successful assignment
-│   ├── error.jsp                   # Page for errors
-│   ├── manager.jsp                 # Page for successful manager registration
+│   ├── success.jsp                  Page for successful assignment
+│   ├── error.jsp                   Page for errors
+│   ├── manager.jsp                 Page for successful manager registration
 │   └── css/
-│       └── style.css               # Styles for the web pages
+│       └── style.css                Styles for the web pages
 │
 └── WEB-INF/
-    └── web.xml                     # Configuration file for servlets
+    └── web.xml                      Configuration file for servlets
 
