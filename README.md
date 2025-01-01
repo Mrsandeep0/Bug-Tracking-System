@@ -4,14 +4,14 @@ This is a simple Java-based Bug Tracking System that allows project managers to 
 
 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Features]
+- [Technologies Used]
+- [Installation]
+- [Usage]
+- [File Structure]
+- [License]
+- [Contributing]
+- [Contact]
 
 Features
 
