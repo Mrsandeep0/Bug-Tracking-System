@@ -13,7 +13,7 @@ Table of Contents
 - [Contributing]
 - [Contact]
 
-Features
+ Features
 
 - Register managers for the bug tracking system.
 - Assign developers to specific bugs.
