@@ -1,4 +1,4 @@
- Bug Tracking System
+  Bug Tracking System
 
 This is a simple Java-based Bug Tracking System that allows project managers to register and assign developers to bugs. The system utilizes Java Servlets, JSP, and MySQL for backend functionality.
 
